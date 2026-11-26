@@ -1,3 +1,9 @@
+"""Write the fixed ENTRY_TEXT error-message string constant to entry.txt.
+
+Use /output/entry.txt by default, or $MAKEFUN_OUTPUT_DIR/entry.txt when set.
+Gate: one nonblank UTF-8 line, 1–140 characters, with no trailing newline.
+"""
+
 import os
 from pathlib import Path
 import shutil
