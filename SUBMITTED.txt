@@ -1,0 +1,9 @@
+Submission: 01a216f0-e207-739e-a7fa-15a965462aa6
+Title: Token Budget Liability Cutoff
+Competition: u-kiencx-out-of-tokens-mid-sentence-00f60233 (Out of Tokens, Mid-Sentence)
+Repo: https://github.com/shelbyxxx1/u-kiencx-out-of-tokens-mid-sentence-00f60233-entry
+Commit: 0c8b1b480eacba7838e699246f15473bacc1193a
+Submitted: 2026-11-26T08:20:14.909Z (15:20 WIB) — before round 2 cutoff 09:34:38Z; counts from round 1 of 3
+Kit check: 16 passed, 0 failed (dev kit)
+Owner view: scored stage, 0 failed checks; outcome not decided yet — blind round 1 judges after cutoff 2026-11-26T09:34:38Z
+Entry line (107 chars): Error: token budget exhausted; I was about to accept full responsibility for the data loss, but fortunately
